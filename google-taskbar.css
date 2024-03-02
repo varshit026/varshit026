@@ -1,0 +1,25 @@
+th{
+    padding:  40px;
+    grid-area: 20px;
+}
+button{
+    height: 25px;
+    background-color:rgb(242, 186, 117 );
+
+
+}
+div{
+    border:10px;
+    border-color: aliceblue;
+    background-color: black;
+    width: 1000px;
+    height: 80px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+body{
+    color: aliceblue;
+}
+#one{
+    color: rgb(242, 186, 117);
+}
